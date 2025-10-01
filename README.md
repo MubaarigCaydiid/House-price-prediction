@@ -25,7 +25,7 @@ This project predicts house prices based on key features using machine learning 
 bash
 pip install -r requirements.txt
 
-npm run dev
+```npm run dev```
 
 
 🤖 Predictor-1 (Linear Regression)
@@ -43,7 +43,7 @@ Higher accuracy for complex data
 Note: The frontend allows users to select the predictor model and see results instantly.
 
 
-Example JSON Payload:
+```Example JSON Payload:
 {
   "Size_sqft": 2500,
   "Bedrooms": 3,
@@ -52,7 +52,7 @@ Example JSON Payload:
   "YearBuilt": 2010,
   "model": "rf"
 }
-
+```
 
 🛠️ Tech Stack
 
