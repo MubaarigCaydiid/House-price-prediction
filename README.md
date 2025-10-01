@@ -26,7 +26,8 @@ bash
 ```pip install -r requirements.txt
 ```
 
-```npm run dev```
+```npm run dev
+```
 
 
 🤖 Predictor-1 (Linear Regression)
