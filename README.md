@@ -23,7 +23,8 @@ This project predicts house prices based on key features using machine learning 
 ### Backend (Flask)
 1. Install dependencies:
 bash
-pip install -r requirements.txt
+```pip install -r requirements.txt
+```
 
 ```npm run dev```
 
@@ -62,7 +63,7 @@ Frontend: Next.js 15, TypeScript, Tailwind CSS, shadcn/ui, Lucide React
 
 Machine Learning Models: Linear Regression, Random Forest
 
-📱 Responsive Design
+```📱 Responsive Design
 
 The frontend works seamlessly across:
 
@@ -71,6 +72,7 @@ Desktop (1024px+)
 Tablet (768px - 1023px)
 
 Mobile (320px - 767px)
+```
 
 🎨 Design Features
 
